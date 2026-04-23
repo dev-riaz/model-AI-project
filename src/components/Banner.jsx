@@ -3,9 +3,9 @@ import React from "react";
 const Banner = () => {
   return (
     <div>
-      <div className="hero min-h-screen max-w-4xl mx-auto ">
+      <div className="hero min-h-screen max-w-5xl mx-auto ">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <img className="w-80" src="../../public/banner.png" alt="" />
+          <img className="w-80 animate-pulse" src="/public/banner.png" alt="" />
           <div>
             <div className="badge bg-red-400/50 text-red-500 py-4 px-5 rounded-full font-medium border-red-400">
               Future AI Models

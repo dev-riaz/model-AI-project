@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "AI chatbot for coding and writing.\nSolve problems and generate ideas instantly.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Grok",
+    "description": "Create stunning AI-generated images.\nPerfect for designers and creatives.",
+    "price": 10,
+    "image": "https://i.ibb.co.com/B5mBXNHV/grok-ai.webp",
+    "status": "favourite"
+  },
+  {
+    "id": 3,
+    "title": "Claude",
+    "description": "Generate images from text prompts.\nUseful for art and marketing visuals.",
+    "price": 15,
+    "image": "https://i.ibb.co.com/8D5DG8JZ/Claude-ai-icon-svg.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 4,
+    "title": "GitHub Copilot",
+    "description": "AI assistant for writing code faster.\nBoost productivity inside your editor.",
+    "price": 10,
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "status": "popular"
+  },
+  {
+    "id": 5,
+    "title": "Runway ML",
+    "description": "AI video editing and generation.\nCreate cinematic content easily.",
+    "price": 12,
+    "image": "https://i.ibb.co.com/8gBcqn6R/Runway-ML.png",
+    "status": "favourite"
+  },
+  {
+    "id": 6,
+    "title": "Notion AI",
+    "description": "Smart writing assistant in Notion.\nSummarize and organize content fast.",
+    "price": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 7,
+    "title": "Leonardo AI",
+    "description": "Generate game assets and art.\nPerfect for developers and designers.",
+    "price": 0,
+    "image": "https://i.ibb.co.com/hFNwWr8B/Leonardo-AI.png",
+    "status": "popular"
+  },
+  {
+    "id": 8,
+    "title": "Pictory",
+    "description": "Turn text into engaging videos.\nGreat for social media creators.",
+    "price": 19,
+    "image": "https://i.ibb.co.com/dsbQtYTH/Pictory.jpg",
+    "status": "favourite"
+  },
+  {
+    "id": 9,
+    "title": "Jasper AI",
+    "description": "AI content writer for marketing.\nGenerate blogs, ads, and copywriting.",
+    "price": 29,
+    "image": "https://i.ibb.co.com/1GWxjMrp/Jasper-AI.jpg",
+    "status": "mostwanted"
+  },
+  {
+    "id": 10,
+    "title": "Synthesia",
+    "description": "Create AI videos with avatars.\nNo camera or actors needed.",
+    "price": 30,
+    "image": "https://i.ibb.co.com/TMj1f44X/Synthesia.jpg",
+    "status": "popular"
+  },
+  {
+    "id": 11,
+    "title": "Copy.ai",
+    "description": "AI tool for generating marketing copy.\nCreate ads, emails, and social posts fast.",
+    "price": 36,
+    "image": "https://i.ibb.co.com/BHgqKsV2/copy-ai.jpg",
+    "status": "favourite"
+  },
+  {
+    "id": 12,
+    "title": "DeepL",
+    "description": "High-quality AI translation tool.\nTranslate text accurately across languages.",
+    "price": 0,
+    "image": "https://i.ibb.co.com/7NY2GwS4/Deep-L.jpg",
+    "status": "popular"
+  }
+]

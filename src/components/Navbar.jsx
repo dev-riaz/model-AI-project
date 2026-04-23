@@ -12,7 +12,7 @@ const Navbar = () => {
             >
             </label>
             <div className="flex items-center justify-between gap-2">
-                <img className="w-10" src="../../public/logo.png" alt="" />
+                <img className="w-10" src="/public/logo.png" alt="" />
                 <h1 className="font-bold">Ai Hub</h1>
             </div>
           </div>
